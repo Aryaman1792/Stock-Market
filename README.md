@@ -24,7 +24,6 @@ A full-stack **Stock Market Web Application** that provides real-time stock data
 | Frontend | HTML, CSS, JavaScript (Use React/Vue if applicable) |
 | Backend | Node.js / Express (UPDATE if different) |
 | API | REST endpoints for market data |
-| Data | 3rd-party stock data provider (e.g., Yahoo Finance/Alpha Vantage) |
 
 ---
 
